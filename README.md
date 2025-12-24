@@ -7,8 +7,8 @@ Il présente un pipeline complet de **NLP classique** et de **Machine Learning**
 ---
 
 ## Datasets
-- **Books_data.csv** : informations sur les livres (titre, auteur, catégories, etc.)  
-- **Books_rating.csv** : avis clients (score, texte, résumé, date, etc.)  
+- **Books.csv** : informations sur les livres (titre, auteur, catégories, etc.)  
+- **Ratings.csv** : avis clients (score, texte, résumé, date, etc.)  
 
 Les deux fichiers sont joints pour relier les avis aux livres.
 
